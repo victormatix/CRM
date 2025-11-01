@@ -160,7 +160,7 @@ Our planning were organized within Jira Tools with previous break downs of a mai
 <a href="https://github.com/huenchu">	» @huenchu - Alexis Emmanuel Huenchuán Varas</a><br> 
  <a href="https://github.com/oroig">	» @oroig - Oscar Roig</a><br>
   <a href="https://github.com/MaxiVina">	» @MaxiVina - Maximiliano Vina</a><br>
-  <a href="https://github.com/vsbcn"> 	» @vsbcn - Vitalik Serhyeyev</a><br>  
+  <a href="https://github.com/victormatix"> 	» @victormatix</a><br> 
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
